@@ -1,7 +1,7 @@
 # **Practica de ejercicios con Javascript Bucles** 💻
 
 
-### **Tecnologias/Herramientas**
+### **Tecnologias/Herramientas** 🛠
 - Html **v5**
 - **JavaScript**
 
